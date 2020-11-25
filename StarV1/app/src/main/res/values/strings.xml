@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StarGH</string>
+    <string name="permission_read_provider">Permission de lecture de la base</string>
+    <string name="permission_write_provider">Permission d\'écriture dans la base</string>
+    <string name="service_scanning_for_files">StarGH vérifie si de nouveaux horaires ont été mis en ligne…</string>
+    <string name="time_pick">Heure</string>
+    <string name="line_pick">Ligne</string>
+    <string name="validate">Valider</string>
+    <string name="date_pick">Date</string>
+    <string name="timetables_download_status_message">Téléchargement des horaires...</string>
+    <string name="timetables_unzip_status_message">Extraction des données...</string>
+    <string name="db_loading_status_message">Chargement des données dans l\'application...</string>
+    <string name="search_timetables_button">Valider</string>
+    <string name="no_internet">Pas d\'internet...</string>
+    <string name="notification_title">StarGH</string>
+    <string name="new_timetables_notification_desc">De nouveaux horaires sont disponibles! Cliquer pour télécharger.</string>
+</resources>

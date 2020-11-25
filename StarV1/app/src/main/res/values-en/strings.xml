@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StarKM</string>
+    <string name="date_pick">Date</string>
+    <string name="line_pick">Line</string>
+    <string name="service_scanning_for_files">StarKM checks if there are new time tables are online…</string>
+    <string name="time_pick">Hour</string>
+    <string name="validate">Validate</string>
+    <string name="timetables_download_status_message">Downloading timetables...</string>
+    <string name="timetables_unzip_status_message">Extracting data...</string>
+    <string name="db_loading_status_message">Loading data in application...</string>
+    <string name="search_timetables_button">Search</string>
+    <string name="no_internet">No internet...</string>
+    <string name="notification_title">StarGH</string>
+    <string name="new_timetables_notification_desc">New timetables are available! Click to download.</string>
+    <string name="permission_read_provider">Database reading permissions</string>
+    <string name="permission_write_provider">Database writing permissions</string>
+</resources>
